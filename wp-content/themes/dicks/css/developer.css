@@ -1,0 +1,52 @@
+input.wpcf7-form-control.wpcf7-submit.more_btn{
+	display: inline-block;
+    padding: 13px 45px;
+    background: #af1e1e;
+    border-radius: 50px;
+    color: #fff;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-position: 75% center;
+    background-repeat: no-repeat;
+    background-color: #af1e1e;
+    background-image:url("../images/arrow_white.png");
+    padding: 13px 55px 13px 35px;
+}
+input.wpcf7-form-control.wpcf7-submit.more_btn:hover {
+    background-color: #fee50d;
+    background-image:url("../images/arrow_black.png");
+    color: #090909;
+    text-decoration: none;
+}
+.dropdown-menu li{
+    display: block;
+    margin: 0;
+}
+.dropdown-menu li.active a{
+    background: none; 
+    color:#000;
+}
+
+.dropdown-menu > li > a{
+    padding: 8px 15px !important;
+    font-size: 12px !important;
+    border-bottom: 1px solid #fff;
+}
+.dropdown-menu > li:last-child > a{
+	border-bottom:none;
+}
+.dropdown-menu{
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+    background-color: #eeeeee;
+}
+.dropdown-menu li:hover:after, .dropdown-menu li.active:after{
+	display: none !important;
+}
+.dropdown-menu li:hover a, .dropdown-menu li.active a, .dropdown-menu li.active:hover a{
+	background: #cf000b;
+	color:#fff;
+}

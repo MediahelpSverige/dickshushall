@@ -1,0 +1,256 @@
+@media (max-width: 1300px) {
+	
+}
+
+@media (max-width: 1280px) {
+	
+}
+@media (max-width:1199px) {
+	 .banner_text h1 {
+	    font-size: 49px;
+	    line-height: 48px;
+   	  }
+   	  .banner_text h2 {
+	    font-size: 29px;
+	    line-height: 31px;
+      }
+      .banner_text p {
+	    font-size: 13px;
+       }
+       h1 {
+	    font-size: 28px;
+       }
+       .service_cols h2 {
+	    font-size: 18px;
+	    margin: 0 0 18px;
+	    padding-bottom: 9px;
+    	}
+    	.service_cols p{
+    		font-size: 13px;
+    		margin-bottom: 21px;
+    	}
+    	.main_menu li a {
+		    font-size: 13px;
+		    padding: 4px 5px;
+    	}
+    	.banner_text {
+    		left: 23px;
+    	}
+    	.owl-controls {
+		    bottom: 30px;
+		    left: 23px;
+    	}
+    	
+}
+@media (max-width:991px) {
+	.service_cols {
+	    padding:15px;
+	}
+	.service_cols h2{
+		font-size: 15px;
+	}
+	.footer_left, .footer_right{
+		float: none;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.footer_cell{
+		/* padding: 15px 0 7px 0; */
+	}
+	.gray_cell{
+		padding: 15px;
+	}
+	.cell_heading{
+		font-size: 18px;
+		font-weight: 400;
+	}
+	.sub_text{
+		padding: 0 130px;
+	}
+		.colnt_list li{
+	    	font-size: 12px;
+	    	background:url("../images/red_dot.png") no-repeat left 4px;
+	    }
+	    .form-label{
+	    	font-size: 11px;
+	    }
+	    .no_padding{
+	    	padding: 0;
+	    }
+}
+
+@media (max-width:767px) {
+		.header_logo_part{
+			position: relative;
+			margin: 0;
+		}
+		.banner_text {
+    		transform:none;
+    		top: 10%;
+    	}
+    	.navbar-toggle{
+    		background: #af1e1e;
+    		border-radius: 0;
+    		position: absolute;
+    		margin: 0;
+    		right: 0;
+    		top: 17px;
+    	}
+    	.navbar-toggle .icon-bar{
+    		background: #fff;
+    	}
+    	.phone_cell span {
+    		font-size: 17px;
+    	}
+    	.phone_cell h2 {
+		    font-size: 22px;
+		    line-height: 18px;
+    	}
+    	.logo{
+    		width: 200px;
+    	}
+    	.phone_cell {
+		    margin-right: 52px;
+		    margin-top: 10px;
+		}
+		.main_menu{
+			padding: 0 15px;
+			margin: 7px 0;
+		}
+		.main_menu li{
+			display: block;
+			margin: 0;
+		}
+		.nav_outer{
+			border:none;
+		}
+		.banner_text{
+			width: 100%;
+		}
+		.service_cols{
+			margin-bottom: 10px;
+		}
+		.service_text, .banner_container, .gray_cell{
+			margin-bottom: 15px;
+		}
+		.sortiment_imgcell{
+			float: none !important;
+			width: 100%;
+		}
+		.eq_height{
+			height: auto !important;
+		}
+		.sortiment_imgcell .eq_height{
+			height: 200px !important;
+		}
+		.sub_text{
+			padding: 0 70px;
+		}
+		.no_padding{
+	    	padding: 0;
+	    }
+	    .kintact_form_outer{
+	    	height: auto !important;
+	    }
+	    .map_cell{
+	    	height: 300px !important
+	    }
+	    .kintact_form_cont{
+	    	float: none !important;
+	    	width: 100% !important;
+	    }
+	    .client_in{
+	    	margin-bottom: 7px;
+	    }
+	    .address_list li{
+	    	padding-left: 40px;
+	    	font-size: 12px;
+	    }
+	    
+}
+
+@media (max-width: 600px) {
+	.banner_text h1 {
+	    font-size: 24px;
+	    line-height: 22px;
+	}
+	.banner_text h2 {
+	    font-size: 18px;
+	    line-height: 20px;
+	}
+	.banner_text {
+	    left: 6px;
+	}
+	.banner_text p{
+		font-size: 10px;
+		color:#000;
+	}
+	.owl-controls {
+	    bottom: 7px;
+	    left: 8px;
+	}
+	.owl-theme .owl-dots .owl-dot span{
+		width: 20px;
+	}
+	h1 {
+	    font-size: 19px;
+	}
+	.client_in{
+		margin-bottom: 10px;
+	}
+	.client_cell, .service_container{
+		margin-bottom: 15px;
+	}
+	.footer_left li {
+	    border-right: none;
+	    margin-right: 0;
+	    padding-right: 0;
+	}
+	.head_client {
+	    font-size: 17px;
+	    margin-bottom: 15px;
+	    padding: 3px 10px;
+   	}
+   	p {
+	    font-size: 13px;
+	    margin: 0 0 4px;
+	}
+	.sub_text{
+		padding: 0;
+	}
+	.form_head {
+    	font-size: 17px;
+   	}
+   	.form_sub_head {
+	    font-size: 15px;
+	    margin: 0 0 3px;
+    }
+    .no_padding{
+	    	padding: 0;
+	    }
+
+}	
+
+@media (max-width: 420px) {	
+	.logo {
+	    width: 130px;
+	}
+	.phone_cell {
+	    margin-right: 52px;
+	    margin-top: 2px;
+	 }
+	 .navbar-toggle{
+	 	top: 3px;
+	 }
+	 .phone_cell span {
+		font-size: 12px;
+	 }
+	 .phone_cell h2 {
+	    font-size: 14px;
+	    line-height: 15px;
+	 }
+}
+
+@media (max-width: 360px) {
+	
+}
